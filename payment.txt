@@ -1,1 +1,2 @@
 phone pe integration code
+google pay integration code
